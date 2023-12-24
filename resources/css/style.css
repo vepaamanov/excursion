@@ -1,0 +1,20 @@
+html {
+   background-color: black;
+}
+
+
+h1 {
+    display: flex;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    justify-content: center;
+}
+
+a {
+    display: flex;
+    color: aquamarine;
+    font-size: 16px;
+    justify-content: center;
+}
